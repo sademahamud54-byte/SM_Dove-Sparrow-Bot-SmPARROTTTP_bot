@@ -1,0 +1,6 @@
+{
+  "name": "SM Hamstar Bot 247",
+  "description": "Telegram Mini App project studio, HopWeb mobile code manager, and live interactive preview for SM-HAMSTAR-BOT-247",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
